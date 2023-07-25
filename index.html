@@ -31,6 +31,47 @@
 </script>
 </head>
 <body>
-    
+    <!-- navbar section -->
+    <header>
+        <div class="navbar bg-white lg:bg-mycolor lg:rounded-full text-black lg:text-white px-5 lg:w-10/12 md:px-5 xl:px-5 md:py-5 lg:mx-auto lg:my-5 lg:flex lg:justify-between lg:items-center">            
+            <div class="navbar-center hidden lg:flex">
+              <ul class="menu menu-horizontal px-1">
+                <li><a class="text-base font-secondaryFont font-medium">Home</a></li>
+                <li><a class="text-base font-secondaryFont font-medium">About Us</a></li>
+                <li><a class="text-base font-secondaryFont font-medium">Shop</a></li>
+                <li><a class="text-base font-secondaryFont font-medium">All Fruits</a></li>            
+              </ul>
+            </div>
+            <div class="navbar-start flex justify-between items-center w-full">
+                <div class="lg:mx-auto flex flex-start lg:justify-center items-center">
+                    <img class="w-auto h-8 sm:w-14 sm:h-12 items-center" src="./images/logo.png" alt=""><span class="pl-3 lg:pl-5 font-primaryFont font-bold text-2xl lg:text-4xl ">Fruit Burst</span>
+                </div>
+                <div class="dropdown">
+                    <label tabindex="0" class="btn btn-ghost lg:hidden">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-black" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+                    </label>
+                    <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                        <li><a class="text-base font-secondaryFont font-medium">Home</a></li>
+                        <li><a class="text-base font-secondaryFont font-medium">About Us</a></li>
+                        <li><a class="text-base font-secondaryFont font-medium">Shop</a></li>
+                        <li><a class="text-base font-secondaryFont font-medium">All Fruits</a></li>
+                    </ul>
+               </div>
+            </div>
+            <div class="form-control relative hidden lg:block">
+                <input type="text" placeholder="Search here" class="input input-bordered w-24 md:w-auto pl-5"/>
+                <span class="absolute inset-y-0 right-5 flex items-center pl-3 pointer-events-none">
+                  <i class="fa-solid fa-magnifying-glass text-black"></i>
+                </span>
+            </div>
+              
+        </div>
+    </header>
+    <main>
+
+    </main>
+    <footer>
+
+    </footer>
 </body>
 </html>
