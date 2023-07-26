@@ -1,19 +1,19 @@
 Main section!
 
- -Nav-bar 
- -banner section
- -deal of the day
+ -Nav-bar ---> DONE
+ -banner section ---> DONE
+ -deal of the day ---> DONE
  -meet the team section 
- -footer 
+ -footer ---> DONE
 
 optional!
 
- -minimum 3 icons in footer
- -hide [banner er fruit section]
+ -minimum 3 icons in footer ---> DONE
+ -hide [banner er fruit section] ---> DONE
 
 Bonus Section!
 
- -banner er fruit section
- -details button -> pop-up 
+ -banner er fruit section ---> DONE
+ -details button -> pop-up ---> DONE
  -why choose us
  -mobile and tab responsive 
