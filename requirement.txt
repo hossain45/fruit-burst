@@ -3,7 +3,7 @@ Main section!
  -Nav-bar ---> DONE
  -banner section ---> DONE
  -deal of the day ---> DONE
- -meet the team section 
+ -meet the team section --> DONE
  -footer ---> DONE
 
 optional!
@@ -15,5 +15,5 @@ Bonus Section!
 
  -banner er fruit section ---> DONE
  -details button -> pop-up ---> DONE
- -why choose us
- -mobile and tab responsive 
+ -why choose us --> DONE 
+ -mobile and tab responsive --> DONE
